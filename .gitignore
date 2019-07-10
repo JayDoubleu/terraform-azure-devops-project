@@ -1,0 +1,18 @@
+**/*.pem
+**/*.ppk
+**/secrets.tfvars
+**/plugins/*
+**/.terraform*
+**/*.swp
+**/*.retry
+**/*.ignore
+**/.vscode
+**/__pycache__
+
+
+# IDE
+.idea
+
+# OSX
+*.DS_Store
+
